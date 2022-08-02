@@ -18,6 +18,7 @@ Adding some more details.
 ## How To Contribute
 
 Add new way to contributoe
+To be reviwed.
 
 ### Copyright
 2022 Yubo Li
