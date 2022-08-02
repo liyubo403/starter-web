@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+Yubo Li yuboli@gmail.com
 
 # THANKS
 
