@@ -18,3 +18,6 @@ Adding some more details.
 ## How To Contribute
 
 Add new way to contributoe
+
+### Copyright
+2022 Yubo Li
