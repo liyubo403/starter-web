@@ -1,2 +1,3 @@
 This is just a test to understand 
 how VSC works with git. 
+Made some changes. 
